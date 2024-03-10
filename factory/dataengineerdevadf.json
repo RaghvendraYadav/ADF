@@ -1,0 +1,9 @@
+{
+	"name": "dataengineerdevadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cfda9de-e218-4e60-9bd1-5b643241cfa1",
+		"tenantId": "9ed0ea74-66ee-41b3-b502-04b096044f76"
+	}
+}
